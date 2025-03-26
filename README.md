@@ -1,4 +1,4 @@
-# Justd UI -
+# Justd UI Library
 
 ![image](https://github.com/user-attachments/assets/f1c56dba-511c-43b1-9297-1165710fe81e)
 
@@ -6,7 +6,7 @@
 
 [Justd UI](https://getjustd.com) is a chill set of React components built on top of React Aria Components, all about keeping the web accessible.
 
-> [Next.js 15: How to Use Hero UI in Your Applications?](https://medium.com/p/42d84187bd2d)
+> [How to set up or install Justd UI Library with Next.js 15?](https://medium.com/frontendweb/nextjs-15-42d84187bd2d)
 
 ## Getting Started
 
